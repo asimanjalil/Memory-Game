@@ -18,4 +18,4 @@ You can also download memory boards made by others by entering the game name. .
 
 GIF created with [ImgFlip](https://imgflip.com/).
 
-![Screenshot](assets/memoryImage.png)
+![Screenshot](assets/memoryImage.jpeg)
