@@ -17,3 +17,5 @@ You can also download memory boards made by others by entering the game name. .
 <a href="https://imgflip.com/gif/6e2p7t" ><img src='https://i.imgflip.com/6e2p7t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  </a>
 
 GIF created with [ImgFlip](https://imgflip.com/).
+
+![Screenshot](assets/memoryImage.png)
